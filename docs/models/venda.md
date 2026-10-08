@@ -1,0 +1,12 @@
+PlanDir=$APPLOCAL$\plan
+filterIndex=3
+precoTipoIndex=2
+iniPlanType=H
+iniIDRota=1
+iniIDCli=4
+iniIDProd=2
+iniCol=4
+iniRow=4
+FixCliNome=5
+FixProdDesc=3
+iniLoja=A1 - Sempre o numero 1 
